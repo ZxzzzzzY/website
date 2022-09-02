@@ -2,7 +2,7 @@
 
 <head>
 
-<title></title>
+<title>Infoo</title>
 
 </head>
 
